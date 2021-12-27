@@ -7,12 +7,12 @@
     const Faizan = {
     lookingFor: "Front-end developer" || "Full-stack web developer",
     pronouns: ["he", "him"],
-    code: [JavaScript, React, Redux, Ruby, Ruby on Rails, HTML/CSS, Bootstrap],
-    askMeAbout: [Tech, StartUps, ,Future, Crypto, AI, Space, UFOs],
+    code: [JavaScript, React, Redux, Ruby, ROR, HTML-CSS, Bootstrap],
+    askMeAbout: [Tech, StartUps, Crypto, AI, Space, UFOs],
     challenge: "Make myself comfortable with being uncomfortable",
     USP: "Always eager to learn new things",
     work: "Currently a student at Microverse",
-    otherSkills: [Digital Marketing, Search Engine Optimization, Shopify, Photoshop, Growth Strategy, E Commerce]
+    otherSkills: [Finance, Digital Marketing, SEO, Photoshop, E Commerce]
   }
   ```
 
